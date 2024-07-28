@@ -1,0 +1,34 @@
+
+X
+java:S6208è"CMerge the previous cases into this one using comma-separated label.(Èæ
+]
+java:S1192‹"FDefine a constant instead of duplicating this literal "float" 4 times.(ßÍ÷§
+e
+java:S1192×"NDefine a constant instead of duplicating this literal ".getText());
+" 5 times.(Üá¾¨
+c
+java:S1192Š"GDefine a constant instead of duplicating this literal "double" 4 times.(ëåµùÿÿÿÿ
+b
+java:S1192£"FDefine a constant instead of duplicating this literal "param" 3 times.(¹íèéùÿÿÿÿ
+d
+java:S1192Á"MDefine a constant instead of duplicating this literal "            " 3 times.(‡¶ž¼
+d
+java:S1192Œ"HDefine a constant instead of duplicating this literal "boolean" 4 times.(Ë·ñ ûÿÿÿÿ
+>
+java:S1604/"(Make this anonymous inner class a lambda(žßñ
+>
+java:S1604a"(Make this anonymous inner class a lambda(‚åöš
+C
+java:S1604h"(Make this anonymous inner class a lambda(®‡Œýÿÿÿÿ
+>
+java:S1604o"(Make this anonymous inner class a lambda(­üà¿
+C
+java:S1604v"(Make this anonymous inner class a lambda(Õ£µ·þÿÿÿÿ
+]
+java:S1659"BDeclare "clear" and all following declarations on a separate line.(ŸÀª¬ùÿÿÿÿ
+d
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+V
+java:S1854—"?Remove this useless assignment to local variable "uiClassName".(ùÕ¬Û
+G
+java:S1481—"0Remove this unused "uiClassName" local variable.(ùÕ¬Û
